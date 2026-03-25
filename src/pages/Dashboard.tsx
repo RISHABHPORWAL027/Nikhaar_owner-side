@@ -8,7 +8,7 @@ export default function Dashboard() {
       {/* Dashboard Header */}
       <div className="mb-6 lg:mb-10">
         <p className="font-label text-on-surface-variant text-xs lg:text-sm uppercase tracking-widest mb-1">Thursday, Oct 24</p>
-        <h1 className="text-3xl lg:text-4xl font-extrabold tracking-tight text-primary-container leading-none">Studio Flow.</h1>
+        <h1 className="text-2xl lg:text-4xl font-bold lg:font-extrabold tracking-tight text-primary-container leading-none">Studio Flow.</h1>
       </div>
 
       {/* Metrics Bento Grid */}

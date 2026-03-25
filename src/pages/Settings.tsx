@@ -4,7 +4,7 @@ export default function Settings() {
   return (
     <div className="max-w-md mx-auto lg:max-w-4xl">
       <div className="mb-8 lg:mb-10">
-        <h1 className="text-3xl lg:text-4xl font-extrabold tracking-tight text-primary-container leading-none mb-2">Studio Config.</h1>
+        <h1 className="text-2xl lg:text-4xl font-bold lg:font-extrabold tracking-tight text-primary-container leading-none mb-2">Studio Config.</h1>
         <p className="text-on-surface-variant text-xs lg:text-sm font-medium">Manage your salon's global settings and preferences.</p>
       </div>
 

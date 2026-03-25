@@ -12,7 +12,7 @@ export default function Calendar() {
         <div className="mb-4 lg:mb-0">
           <p className="font-label text-on-surface-variant text-[10px] lg:text-sm uppercase tracking-widest mb-1">October 2024</p>
           <div className="flex items-center gap-4">
-            <h1 className="text-3xl lg:text-4xl font-extrabold tracking-tight text-primary-container leading-none">The Schedule.</h1>
+            <h1 className="text-2xl lg:text-4xl font-bold lg:font-extrabold tracking-tight text-primary-container leading-none">The Schedule.</h1>
             <div className="hidden lg:flex items-center gap-2 bg-surface-container-low p-1 rounded-xl">
               <button className="p-2 hover:bg-white rounded-lg transition-colors"><ChevronLeft size={20} /></button>
               <span className="text-sm font-bold px-4">Today</span>

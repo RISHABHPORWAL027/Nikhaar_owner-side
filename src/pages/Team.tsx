@@ -6,7 +6,7 @@ export default function Team() {
     <div className="max-w-md mx-auto lg:max-w-6xl">
       {/* Header */}
       <div className="mb-8 lg:mb-16">
-        <h1 className="text-3xl lg:text-4xl font-extrabold tracking-tight text-primary-container leading-none mb-2">Grow Your Tribe.</h1>
+        <h1 className="text-2xl lg:text-4xl font-bold lg:font-extrabold tracking-tight text-primary-container leading-none mb-2">Grow Your Tribe.</h1>
         <p className="text-on-surface-variant text-xs lg:text-sm font-medium">Invite elite specialists to join Nikhaar Noir.</p>
       </div>
 

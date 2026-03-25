@@ -48,7 +48,7 @@ export default function Layout({ children }: LayoutProps) {
               referrerPolicy="no-referrer"
             />
           </div>
-          <h1 className="text-primary-container dark:text-white text-2xl font-black tracking-tighter">The Curator</h1>
+          <h1 className="text-primary-container dark:text-white text-xl font-bold tracking-tight">The Curator</h1>
         </div>
         <button className="text-primary-container dark:text-surface hover:opacity-80 transition-opacity active:scale-95 duration-200">
           <span className="material-symbols-outlined">swap_horiz</span>

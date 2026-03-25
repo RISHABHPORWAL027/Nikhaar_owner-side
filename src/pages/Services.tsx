@@ -105,7 +105,7 @@ export default function Services() {
       <section className="mb-8 lg:mb-12 lg:flex lg:justify-between lg:items-end">
         <div>
           <span className="hidden lg:block text-secondary font-semibold text-sm tracking-widest uppercase mb-2">The Pristine Curator</span>
-          <h2 className="font-headline font-bold text-3xl lg:text-4xl text-primary tracking-tight mb-2">Service Menu</h2>
+          <h2 className="font-headline font-bold text-2xl lg:text-4xl text-primary tracking-tight mb-2">Service Menu</h2>
           <p className="text-on-surface-variant font-body text-xs lg:text-sm max-w-md">Curate your premium grooming experiences and pricing.</p>
         </div>
         <button 
